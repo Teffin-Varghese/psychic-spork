@@ -6,7 +6,9 @@ If you ever face an issue while connecting an open-vpn on fedora, then disable t
 
 Open the terminal on Fedora and disable the SElinux and try again.
 
-You can disable the SElinux by the following command.
-# sudo setenforce 0
+You can disable the SElinux by running the following command.
+# #sudo setenforce 0
 
 And connect to the VPN network.
+
+Cheers...
